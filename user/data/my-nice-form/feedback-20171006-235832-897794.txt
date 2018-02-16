@@ -1,0 +1,3 @@
+name: ThomasVek
+email: thomastox@mail.ru
+message: Все о стройке и ремонте читайте на сайте &lt;a href=http://akro-spb.ru&gt;akro-spb.ru&lt;/a&gt;

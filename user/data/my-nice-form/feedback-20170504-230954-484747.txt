@@ -1,0 +1,3 @@
+name: EdwardThume
+email: edwardmows@mail.ru
+message: Полезная информация о строительстве и ремонте &lt;a href=http://montazhnik02.ru&gt;montazhnik02.ru&lt;/a&gt;

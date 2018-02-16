@@ -1,0 +1,3 @@
+name: Scottrob
+email: kolbovi@mail.ru
+message: Читайте много интересных рецептов блюд &lt;a href=http://zonakulinara.ru&gt;zonakulinara.ru&lt;/a&gt;

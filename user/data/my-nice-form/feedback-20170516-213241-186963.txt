@@ -1,0 +1,3 @@
+name: Rogerrom
+email: drochkin.ivan@mail.ru
+message: &lt;а href=http://link&gt;anchor&lt;/a&gt; <br />   <br />  &lt;а href=http://link&gt;anchor&lt;/a&gt; <br />   <br />  &lt;а href=http://link&gt;anchor&lt;/a&gt; <br />   <br />  &lt;а href=http://link&gt;anchor&lt;/a&gt; <br />   <br />  &lt;а href=http://link&gt;anchor&lt;/a&gt; <br />   <br />  &lt;а href=http://link&gt;anchor&lt;/a&gt;

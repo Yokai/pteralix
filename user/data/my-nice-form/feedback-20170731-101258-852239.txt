@@ -1,0 +1,3 @@
+name: XRumerTest
+email: yourmail@gmail.com
+message: Hello. And Bye.

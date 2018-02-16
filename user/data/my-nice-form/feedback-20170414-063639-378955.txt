@@ -1,0 +1,3 @@
+name: OrvilleStima
+email: fatil89@mail.ru
+message: Очень много полезного о стройке &lt;a href=http://teletap.org&gt;teletap.org&lt;/a&gt;

@@ -1,0 +1,10 @@
+email: asda@asda.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: asda
+title: asda
+hashed_password: $2y$10$Eg8RCOwcFQPaTEv0mFBlru3oqQMxoxbdRjjj7YL/R6nLZ40zXwtXm

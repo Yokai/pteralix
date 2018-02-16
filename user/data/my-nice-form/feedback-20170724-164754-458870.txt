@@ -1,0 +1,3 @@
+name: telcosalivan
+email: salivan@telco-support.org
+message: Компания &lt;a href=http://tritel.net.ru&gt;Tritel&lt;/a&gt; предоставляет услуги безлимитного доступа к сети &lt;a href=http://tritel.net.ru/internet&gt;Интернет&lt;/a&gt; для жителей Симферополя с возможностью подключения к сети на скорости 100Мбит/с. <br />  &lt;a href=http://tritel.net.ru/podklyuchit-internet-v-simferopole&gt;Подключить интернет&lt;/a&gt; в Симферополе. Бесплатное &lt;a href=http://tritel.net.ru/ktv&gt;кабельное телевидение&lt;/a&gt; в Симферополе. услуги &lt;a href=http://tritel.net.ru&gt;безлимитного интернета&lt;/a&gt; всего за 360 рублей. У нас Вы можете &lt;a href=http://tritel.net.ru&gt;подключить интернет&lt;/a&gt; всего за сутки.

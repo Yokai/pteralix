@@ -1,0 +1,3 @@
+name: RodneyOrarl
+email: rodneyquive@mail.ru
+message: Самые последние новости России, Украины и мира читайте на сайте &lt;a href=http://s-narodom.ru&gt;s-narodom.ru&lt;/a&gt;

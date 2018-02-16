@@ -1,0 +1,3 @@
+name: Alfredpen
+email: alfredmeaks@mail.ru
+message: Все о стройке и ремонте читайте на сайте &lt;a href=http://dumainfo.ru&gt;dumainfo.ru&lt;/a&gt;

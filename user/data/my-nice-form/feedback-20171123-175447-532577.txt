@@ -1,0 +1,3 @@
+name: KeithGom
+email: crutdaniele@outlook.com
+message: I am a fan of onion.best <br />   <br />  How it works: <br />   <br />  Whenever you see a URL like http://xxx.onion/, that&#039;s a Tor hidden Web service. Just replace .onion with .onion.best to use the Tor2web proxy network. <br />   <br />  302 Found   https://onion.best/ - Click here!

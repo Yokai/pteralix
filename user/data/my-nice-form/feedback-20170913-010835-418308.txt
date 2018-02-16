@@ -1,0 +1,3 @@
+name: CharlesGig
+email: kara.aravina@mail.ru
+message: Самые последние новости в мире на &lt;a href=http://hayastannews.com&gt;hayastannews.com&lt;/a&gt;

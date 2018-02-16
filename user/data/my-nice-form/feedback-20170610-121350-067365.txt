@@ -1,0 +1,3 @@
+name: Guestinves
+email: samburton202@aol.co.uk
+message: guest test post <br />  &lt;a href=&quot;http://googlee.te/&quot;&gt;bbcode&lt;/a&gt; <br />  &lt;a href=&quot;http://googlee.te/&quot;&gt;html&lt;/a&gt; <br />  http://googlee.te/ simple

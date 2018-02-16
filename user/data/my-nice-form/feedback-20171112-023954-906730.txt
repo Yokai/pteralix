@@ -1,0 +1,3 @@
+name: ScottBog
+email: lollifewins@gmail.com
+message: &lt;a href=http://timecalc.ru/&gt;&lt;img&gt;http://internetaccessmonitor.ru/uploads/posts/2016-09/1474377415_32-32_system_dlya_dll186.png&lt;/img&gt;&lt;/a&gt; <br />  Всем привет, уже третий день не могу поставить DirectX - пробовал установить DLL тдельно, но не помогает, пишет что у меня 32-х битная система. Что делать?

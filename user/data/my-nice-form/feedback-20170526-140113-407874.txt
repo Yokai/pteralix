@@ -1,0 +1,3 @@
+name: Freddievot
+email: freddietax@mail.ru
+message: Представляем вам личного помощника! <br />  Мы собрали в одном месте все &lt;a href=&quot;https://goo.gl/aWrtk0&quot;&gt;самые полезные и интересные сайты&lt;/a&gt;, чтобы вы могли без проблем выбрать именно то, что нужно именно вам.

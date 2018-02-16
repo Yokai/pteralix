@@ -1,0 +1,3 @@
+name: KevinFieda
+email: kevinhes@mail.ru
+message: Все о моде и красоте, читайте на сайте &lt;a href=http://nalatty.com&gt;nalatty.com&lt;/a&gt;

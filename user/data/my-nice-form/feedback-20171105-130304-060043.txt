@@ -1,0 +1,3 @@
+name: Patrickjet
+email: vlad.maurov@mail.ru
+message: Последние строительные новости здесь &lt;a href=http://npbau.ru/&gt;npbau.ru&lt;/a&gt;

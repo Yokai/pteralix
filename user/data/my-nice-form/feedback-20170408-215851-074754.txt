@@ -1,0 +1,3 @@
+name: RobertPeast
+email: leha.makakov@mail.ru
+message: Последние новости здесь &lt;a href=http://mybiysk.ru/&gt;mybiysk.ru/&lt;/a&gt;

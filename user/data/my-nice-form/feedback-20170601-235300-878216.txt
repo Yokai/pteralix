@@ -1,0 +1,3 @@
+name: JamesHaith
+email: alterwaltercouch@gmail.com
+message: Ich habe hier mein Sofa im Test online gefunden. <br />   <br />  &lt;a href=http://couch-sofa-test.de&gt;Sofa kaufen &gt;&gt;&gt;&lt;/a&gt;

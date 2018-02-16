@@ -1,0 +1,3 @@
+name: MichaelPlesk
+email: michaellic@mail.ru
+message: &lt;a href=http://ssmm.org.ua/&gt;ssmm.org.ua&lt;/a&gt;

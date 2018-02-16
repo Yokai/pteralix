@@ -1,0 +1,3 @@
+name: BradleyLow
+email: mari.goloshchekina@mail.ru
+message: Последние новости здесь &lt;a href=http://novorossia-news.com/&gt;novorossia-news.com/&lt;/a&gt;

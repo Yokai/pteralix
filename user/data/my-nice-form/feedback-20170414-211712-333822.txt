@@ -1,0 +1,3 @@
+name: Ismaelmet
+email: albert.vangosh@mail.ru
+message: Новая информация об автомобилях &lt;a href=http://autoisauto.ru/&gt;autoisauto.ru/&lt;/a&gt;

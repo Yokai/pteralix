@@ -1,0 +1,3 @@
+name: RayVom
+email: lollifewins@gmail.com
+message: &lt;a href=http://lol-life.ru/lol.png&gt;&lt;img&gt;http://lol-life.ru/lol.png&lt;/img&gt;&lt;/a&gt; <br />  Вы когда-нибудь слышали про игру Лига Легенд? Если нет советую вам попробовать!

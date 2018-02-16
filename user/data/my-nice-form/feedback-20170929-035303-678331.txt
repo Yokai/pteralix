@@ -1,0 +1,3 @@
+name: ThoRew
+email: wordasbas@gmail.com
+message: &lt;a href=http://wordbase.ru/word.jpg&gt;&lt;img&gt;http://wordbase.ru/word.jpg&lt;/img&gt;&lt;/a&gt; <br />  У вас бывало когда-нибудь, что совсем не получается разгадать вопрос в кроссворде?

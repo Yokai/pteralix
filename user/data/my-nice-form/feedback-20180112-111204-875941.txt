@@ -1,0 +1,3 @@
+name: JesseJuibe
+email: vas.alvar@mail.ru
+message: Новости компьютерного мира тут &lt;a href=http://alvarvas.com/&gt;alvarvas.com&lt;/a&gt;

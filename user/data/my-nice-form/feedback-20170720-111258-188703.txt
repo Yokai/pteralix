@@ -1,0 +1,3 @@
+name: Ismaelmet
+email: lorkina.mari@mail.ru
+message: Новая информация о компьютерном железе &lt;a href=http://www.hardexpert.net/&gt;www.hardexpert.net&lt;/a&gt;

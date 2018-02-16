@@ -1,0 +1,3 @@
+name: DannyRzphice
+email: dannyrzwak@ip7.win
+message: Hello. And Bye.

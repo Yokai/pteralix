@@ -1,0 +1,3 @@
+name: DavidArife
+email: fedor.irekov@yandex.ru
+message: последние новости днр   &lt;a href=http://meganewsru.ru/poslednie-novosti-dnr/index.php&gt;Click here!..&lt;/a&gt;

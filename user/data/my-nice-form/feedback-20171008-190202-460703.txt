@@ -1,0 +1,3 @@
+name: SolomonBer
+email: solomonrox@mail.ru
+message: Все о стройке и ремонте читайте на сайте &lt;a href=http://roofor.ru&gt;roofor.ruu&lt;/a&gt;, также очень хорошой сайте  &lt;a href=http://remstroitelstvo.ru&gt;remstroitelstvo.ru&lt;/a&gt;, и еще много информации на сайте про стройку и ремонте квартир и домов &lt;a href=http://omontazhe.ru&gt;omontazhe.ru&lt;/a&gt; , много информации о строительстве дач, домов, а также монтаже и ремонте на сайте &lt;a href=http://rempostroy.ru&gt;rempostroy.ru&lt;/a&gt;

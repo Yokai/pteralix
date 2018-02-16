@@ -1,0 +1,3 @@
+name: CoreyPar
+email: coreyorind@mail.ru
+message: Все о стройке и ремонте читайте на сайте &lt;a href=http://blitz-remont.ru&gt;blitz-remont.ru&lt;/a&gt; и &lt;a href=http://teletap.org&gt;teletap.org&lt;/a&gt;

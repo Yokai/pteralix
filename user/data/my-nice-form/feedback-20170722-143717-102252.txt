@@ -1,0 +1,3 @@
+name: JimmyExoca
+email: oveshnevaya@mail.ru
+message: Последние автомобильные новости здесь &lt;a href=http://drivim.ru/&gt;drivim.ru&lt;/a&gt;

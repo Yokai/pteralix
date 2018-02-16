@@ -1,0 +1,3 @@
+name: Rickeyuteby
+email: lvovskyand@mail.ru
+message: Самые последние новости в мире на &lt;a href=http://hayastannews.com&gt;hayastannews.com&lt;/a&gt;
